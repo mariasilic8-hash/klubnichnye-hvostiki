@@ -1,0 +1,11 @@
+{
+  "name": "Клубничные хвостики",
+  "short_name": "Хвостики",
+  "description": "Милая игра про заботу о крысятах",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff0f5",
+  "theme_color": "#ffd6e7"
+}
